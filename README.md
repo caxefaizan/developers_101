@@ -32,3 +32,5 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+What is Flask?
+Flask is a web development framework developed in Python. It is easy to learn and use. Flask is “beginner-friendly” because it does not have boilerplate code or dependencies, which can distract from the primary function of an application.
