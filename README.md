@@ -23,6 +23,9 @@ Here's a video to get you started. [Linux Basics](https://www.youtube.com/watch?
 >
 >This opens a workspace in your Ubuntu WSL2
 
+## P.S 
+I love linux been using linux from past 6 years.
+
 ## Networking
 We all hate it but your software needs to be restricted and also allowed across the internet. And often you will hear about networking terminologies. Here's a video to ensure that you don't get an impostor syndrome at work for not knowing it.FYI We all feel it :D -> [Networking Basics](https://www.youtube.com/watch?v=OqsXzkXfwRw).
 
@@ -32,3 +35,12 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## Additional Info
+My name is Shounik Shukla and I'm Currently working as an Intern at Bluealtair India Pvt.Ltd
+
+I am a Full-stack developer
+My technical skills include Linux Adminstration, Python, JavaScript/Java, Cybersecurity, C/C++, Blockchain Smartcontract development, solidity lang and also fimiliar with DBMS, Julia, Android Application Development.
+
+Summary about myself: I am a self-motivated and ambitious student with proven and tested creative development, business, and marketing skills, as well as being a software enthusaist in development and cyber-forensics. 
+
+![Hello](https://icons8.com/icon/81250/hello)
