@@ -32,3 +32,19 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## My Additions to the README
+Hi, my name is Kabir Makhija and this is a part of my assignment as a part of the Blue Altair Onboarding process
+
+### My Technical Stack
+1. Python 3
+2. C++
+3. SQL
+4. R
+5. Machine Learning
+6. Deep Learning
+7. Neural Networks
+
+### Branching and Committing
+Creating a new branch by the name of "baKabirMakhija-branch" and then pushing it to create a pull request.
+
+Pushing Changes...
