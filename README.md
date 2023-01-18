@@ -19,7 +19,7 @@ Here's a video to get you started. [Linux Basics](https://www.youtube.com/watch?
 >
 >* After Ubuntu is installed on your WSL2, Open VS Code and open Extensions `(Ctrl+Shift+X)` and search for Remote - WSL and install it.
 >
->* Now click on the Green Button on the bottom left corner to start a remote window (Ubuntu), click on `New WSL Window Using Distro` and finally select `Ubuntu 20.04`
+>* Now click on the Green Button on the bottom left corner to start a remote window (Ubuntu), and then click on `New WSL Window Using Distro` and finally select `Ubuntu 20.04`
 >
 >This opens a workspace in your Ubuntu WSL2
 
@@ -32,3 +32,7 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## Skills
+- Skilled in C/C++/python(beginner)
+- Good knowledge on OS/DBMS/TOC/Compilers/DBMS
+- Strong DSA Background
