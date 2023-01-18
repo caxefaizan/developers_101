@@ -2,7 +2,7 @@
 
 ## IDE
 We will be using VS Code for the development . However you can use any IDE of your choice.
-Based on your OS download the appropriate version from [here](https://code.visualstudio.com/download).
+Based on your OS download the appropriate version of visual studio from [here](https://code.visualstudio.com/download).
 
 ## GIT
 Now that we are all set the very first skill across all domains is to know about version controlling methodologies such as Git.
