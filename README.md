@@ -52,7 +52,7 @@ We all hate it but your software needs to be restricted and also allowed across 
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 
-### Branching & Merging
+### Branching & Merging commands
 
 | Command | Description |
 | ------- | ----------- |
