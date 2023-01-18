@@ -79,9 +79,3 @@ The cd command is used to change the current directory.
 Syntax:
 
 cd <directory name>  
-
-
-ssa
-
-
-asasxsa
