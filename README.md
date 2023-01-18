@@ -44,3 +44,7 @@ Hi, my name is Kabir Makhija and this is a part of my assignment as a part of th
 6. Deep Learning
 7. Neural Networks
 
+### Branching and Committing
+Creating a new branch by the name of "baKabirMakhija-branch" and then pushing it to create a pull request.
+
+Pushing Changes...
