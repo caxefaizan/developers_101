@@ -32,3 +32,28 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## My First Assignment
+ Hi , 
+     I am Disha Baghele pursuing B.Tech (final year) in CSE. I have joined Blue Altair as a Intern.
+     SO,this is my first assignment.
+
+## Redis
+Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+
+For more information,checkout https://redis.io/docs/
+ 
+ 
+## API
+An API, or application programming interface, is a set of defined rules that enable different applications to communicate with each other. It acts as an intermediary layer that processes data transfers between systems, letting companies open their application data and functionality to external third-party developers, business partners, and internal departments within their companies.
+
+For more information,checkout https://www.ibm.com/topics/api
+
+
+## Angular
+Angular is a development platform, built on TypeScript. As a platform, Angular includes:
+
+A component-based framework for building scalable web applications
+A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more
+A suite of developer tools to help you develop, build, test, and update your code
+
+For more information,checkout https://angular.io/docs
