@@ -32,3 +32,10 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## My Assignment
+- If you want to learn more about above frameworks, you can refer to following resources:
+> [python](https://www.python.org/about/gettingstarted/)
+> [GCP](https://www.javatpoint.com/google-cloud-platform)
+> [Flask](https://www.javatpoint.com/flask-tutorial)
+> [HTML](https://www.w3schools.com/html/)
+> [Postgres](https://www.postgresqltutorial.com/)
