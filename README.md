@@ -32,3 +32,7 @@ We all hate it but your software needs to be restricted and also allowed across 
 - Once our batch is onboarded with the fundamentals above, we can jump on to our internal full stack project [here](https://github.com/caxefaizan/slackapp).
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
+## My assignment
+- What is GCP?
+> Google Cloud is a suite of Cloud Computing services offered by Google. The platform provides various services like compute, storage, networking, Big Data, and many more that run on the same infrastructure that Google uses internally for its end users like Google Search and YouTube.
+
