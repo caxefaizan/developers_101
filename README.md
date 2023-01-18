@@ -33,7 +33,10 @@ We all hate it but your software needs to be restricted and also allowed across 
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
 
-
+## My First Assignment
+ Hi , 
+     I am Vaibhav Nirmal pursuing B.Tech (final year) in IT. I have joined Blue Altair as a Intern.
+     In my first Assignment I contributed below useful things.
 
 ### Getting & Creating Projects
 
