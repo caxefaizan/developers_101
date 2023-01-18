@@ -82,3 +82,6 @@ cd <directory name>
 
 
 ssa
+
+
+asasxsa
