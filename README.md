@@ -42,7 +42,7 @@ We all hate it but your software needs to be restricted and also allowed across 
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
-### Basic Snapshotting
+### Basic Snapshotting commands
 
 | Command | Description |
 | ------- | ----------- |
@@ -93,4 +93,6 @@ We all hate it but your software needs to be restricted and also allowed across 
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
 
