@@ -33,8 +33,8 @@ We all hate it but your software needs to be restricted and also allowed across 
 > Here you can either choose to work on the front end of the application, backend of the application or the cloud operations of the app. Well if you love being a full stack dev. The stage is yours. Note: For the Slack App our Dependant frameworks are : Python, GCP, Flask, HTML, Postgres.
 
 Hi , My name is Anchal Budhrani 
-This is my first assisgnment task .
-I have worked on javascript and react.js 
+This is my first assisgnment task 
+I have worked on javascript react.js and java. 
 
 The followings are the linux command :-
 
@@ -78,4 +78,5 @@ The cd command is used to change the current directory.
 
 Syntax:
 
-cd <directory name>  
+cd <directory name> 
+ 
