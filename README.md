@@ -97,5 +97,40 @@ We all hate it but your software needs to be restricted and also allowed across 
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+## My First Assignment
+ Hi , 
+     I am Prashant Bagde. I have joined Blue Altair as a Intern.
+     In my first Assignment I contributed below useful things.
+### Features of Git
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development
+dev-git
+![download](https://www.simplilearn.com/ice9/free_resources_article_thumb/dev-git.JPG)
+
+### Git Workflow
+![download](https://www.simplilearn.com/ice9/free_resources_article_thumb/git-workflow.JPG)
+
+The Git workflow is divided into three states:
+
+Working directory - Modify files in your working directory
+Staging area (Index) - Stage the files and add snapshots of them to your staging area
+Git directory (Repository) - Perform a commit that stores the snapshots permanently to your Git directory. Checkout any existing version, make changes, stage them and commit.
+working-directory
+
+![download](https://www.simplilearn.com/ice9/free_resources_article_thumb/working-directory.JPG)
+
+### Branch in Git
+Branch in Git is used to keep your changes until they are ready. You can do your work on a branch while the main branch (master) remains stable. After you are done with your work, you can merge it with the main office.
+
+![download](https://www.simplilearn.com/ice9/free_resources_article_thumb/small-feature.JPG)
+
+The above diagram shows there is a master branch. There are two separate branches called “small feature” and “large feature.” Once you are finished working with the two separate branches, you can merge them and create a master branch.
+
 
 
