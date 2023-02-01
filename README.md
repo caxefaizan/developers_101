@@ -34,9 +34,6 @@ We all hate it but your software needs to be restricted and also allowed across 
 
 
 ## My First Assignment
- Hi , 
-     I am Vaibhav Nirmal pursuing B.Tech (final year) in IT. I have joined Blue Altair as a Intern.
-     In my first Assignment I contributed below useful things.
 
 ### Getting & Creating Projects
 
