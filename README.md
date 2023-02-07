@@ -15,7 +15,7 @@ Here's a video to get you started. [Linux Basics](https://www.youtube.com/watch?
 
 >**Note:** 
 >
->* If you are on Windows, I'd recommend installing WSL2 for Windows to follow along in the course. Follow the [link](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview) to get started.
+>* If you are on Windows, I'd recommend installing WSL2 for Windows to follow along in the course. Follow the [link](./install_wsl/README.md) to get started.
 >
 >* After Ubuntu is installed on your WSL2, Open VS Code and open Extensions `(Ctrl+Shift+X)` and search for Remote - WSL and install it.
 >
