@@ -3,12 +3,12 @@ Before installing linux from the microsoft Store or through the powerShell, you 
 
 **Control Panel -> Programs -> Turn Windows feature on or off**
 <p align="center">
-    <img src="./images/image 1.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/image 1.PNG"/>
 </p>
 
 You will get a dialogue box where you need to ensure that the **Virtual Machine Platform** and **Windows Subsystem for Linux** and **Hyper -V** features are selected.
 <p align="center">
-    <img src="./images/image 2.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/image 2.PNG"/>
 </p>
 
 After clicking on the **OK** button, Windows will enable WSL 2.
@@ -21,13 +21,13 @@ Go to:
  Locate  **C:\WINDOWS\System32\vmcompute.exe** in the list and expand it
  click **Edit**
  <p align="center">
-    <img src="./images/image 3.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/image 3.PNG"/>
 </p>
 
  Scroll down to ***Code flow guard (CFG)*** and uncheck ***Override system settings***
 
 <p align="center">
-    <img src="./images/imagex.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/imagex.PNG"/>
 </p>
 
  Then open powerShell prompt as an Administrator and start vmcompute from powershell 
@@ -41,13 +41,13 @@ Next install WSL by running the following commands:
 `wsl –install`
 
 <p align="center">
-    <img src="./images/image 5.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/image 5.PNG"/>
 </p>
 Then proceed with the installation of ubuntu by choosing from the available distros by running 
 
 `wsl --list --online`
 <p align="center">
-    <img src="./images/image 6.PNG"/>
+    <img src="https://github.com/caxefaizan/developers_101/blob/main/install_wsl/images/image 6.PNG"/>
 </p>
 followed by
 
